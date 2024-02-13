@@ -1,2 +1,2 @@
 # Netflix-Home-Page
- Homepage of Netflix A simple website having similar homepage that of Netflix using using HTML and CSS.
+Clone of Netflix Website having same apperance as that of the actual website.
